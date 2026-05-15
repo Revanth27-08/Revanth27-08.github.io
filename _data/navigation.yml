@@ -21,7 +21,7 @@ main:
     url: /resource/
 
   - title: "Gallery"
-    url: /teaching/
+    url: /gallery/
           
   - title: "CV"
     url: /cv/
