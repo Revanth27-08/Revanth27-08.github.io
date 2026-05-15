@@ -18,10 +18,10 @@ main:
     url: /teaching/  
 
   - title: "Resource"
-    url: _pages/resource.html
+    url: /resource/
 
   - title: "Gallery"
-    url: _pages/gallery.html
+    url: /gallery/
           
   - title: "CV"
     url: /cv/
