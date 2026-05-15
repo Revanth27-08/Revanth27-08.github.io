@@ -15,7 +15,13 @@ main:
     url: /publications/
     
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/  
+
+  - title: "Resource"
+    url: /resource/
+
+  - title: "Gallery"
+    url: /teaching/
           
   - title: "CV"
     url: /cv/
