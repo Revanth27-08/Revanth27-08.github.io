@@ -23,10 +23,10 @@ repository               : "https://github.com/Revanth27-08"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "83293920.jpeg"
+  avatar           : "images/Revanth_profile.png"
   name             : "Revanth Elangovan"
   description      : "Molecular Dynamics | Enhanced Sampling | Machine Learning for Biomolecular Simulations"
-  pronouns         : # example: "he/him"  
+  pronouns         : "he/him"  
   bio              : "Graduate Research Assistant"
   location         : "Eugene, OR"
   employer         : "University of Oregon"
